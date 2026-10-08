@@ -8,7 +8,7 @@ Made by newbie Unity developers based on Unity's AR Mobile template.
 
 This app is compatible with android devices. 
   
-  1 - Install the file named Activitat_01_Build_1.apk on your phone.
+  1 - Install the AR_Supermarket.apk file on your phone.
   
   2 - Click the apk on your mobile to install it.
   
