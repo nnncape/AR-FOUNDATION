@@ -1,6 +1,7 @@
-# AR-FOUNDATION
+# AR SUPERMARKET
 
 This is an Augmented Reality app where you can scan your enviroment to reveal a secret Supermarket (late stage capitalism indicator) and interact with it!
+
 Made by newbie Unity developers based on Unity's AR Mobile template.
 
 ## Installation
